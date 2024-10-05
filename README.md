@@ -104,3 +104,5 @@ TfidfVectorizer Dimensionality: (3000,9259)
 
 
 ![SeparableOrNot](SeparableOrNot.PNG)
+
+in both cases emotions are not seperable visually
